@@ -1,4 +1,5 @@
 import streamlit as st
-import pandas as pd
 
-
+st.header('Dashboard')
+st.text('Texto')
+st.sidebar.text("Filtrar Dados")
